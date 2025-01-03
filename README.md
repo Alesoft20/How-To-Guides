@@ -39,4 +39,5 @@ For premium software and exclusive discounts, [visit Software Shop.](https://sof
 If you have any questions or suggestions, feel free to:
 
     Open an issue on this repository.
-    Contact us via our website: [Support Page](https://softwareshopk.com/pages/contact-us)
+    Contact us via our website: [visit Support page.](https://softwareshopk.com/pages/contact-us)
+
