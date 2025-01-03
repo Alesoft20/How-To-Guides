@@ -9,7 +9,7 @@ Welcome to the **Software Shop** repository! This space is dedicated to providin
 ## 💡 Featured Guide: How to Buy Software with Bitcoin
 Are you new to cryptocurrency payments? Learn how to use Bitcoin to purchase software securely and effortlessly on our platform. 
 
-🔗 **Read the full guide on our blog**: [How to Buy Software with Bitcoin](https://softwareshopk.com/blog/news/how-to-buy-software-with-bitcoin)
+🔗 **Read the full guide on our blog**: [How to Buy Software with Bitcoin](https://softwareshopk.com/blogs/news/how-to-buy-software-with-bitcoin)
 
 ---
 
