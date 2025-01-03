@@ -40,4 +40,12 @@ If you have any questions or suggestions, feel free to:
 
     Open an issue on this repository.
     Contact us via our website: [visit Support page.](https://softwareshopk.com/pages/contact-us)
+## 🤝 Contributing
+
+We welcome contributions to this repository! To get started:
+1. Fork the repository.
+2. Make changes or add new features.
+3. Open a pull request with a description of your changes.
+
+If you're interested in collaborating, feel free to [contact us](https://softwareshopk.com/pages/contact-us) or open an issue.
 
