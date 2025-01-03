@@ -33,3 +33,10 @@ Are you new to cryptocurrency payments? Learn how to use Bitcoin to purchase sof
 🌐 Visit Us
 
 For premium software and exclusive discounts, [visit Software Shop.](https://softwareshopk.com/)
+
+🙋‍♂️ Questions or Feedback?
+
+If you have any questions or suggestions, feel free to:
+
+    Open an issue on this repository.
+    Contact us via our website: [Support Page](https://softwareshopk.com/pages/contact-us)
