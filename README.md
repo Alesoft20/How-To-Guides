@@ -29,3 +29,7 @@ Are you new to cryptocurrency payments? Learn how to use Bitcoin to purchase sof
 2. Download or clone the repository:
    ```bash
    git clone https://github.com/Alesoft20/software-shop-tools.git
+
+🌐 Visit Us
+
+For premium software and exclusive discounts, [visit Software Shop.](https://softwareshopk.com/)
